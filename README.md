@@ -29,4 +29,6 @@
 
 - **Driving Business Success**
 
+## _[Link to the Project](https://github.com/Pranav6818/SuperMart_Store_Sales_Report/blob/main/SuperMart_Dashboard.pdf)_
+
 
